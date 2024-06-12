@@ -11,11 +11,12 @@ Ada 6 Table:
 5. Table Detail Pesanan
 6. Table Keanggotaan
 
-# Desain database
+# Desain database :
 
 ![App Screenshot](./Diagram_Db.png)
 
-## Screenshoot Home
+
+## Screenshoot Home :
 
 ![App Screenshot](./Ss_home.png)
 
